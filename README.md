@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>Authority Engine | The Swimming Pool Journey</title>
+  <title>Accident Network | The Swimming Pool Journey</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
 
   <!-- Brand typography: use Avenir Next if available, with Google‑font fallback -->
